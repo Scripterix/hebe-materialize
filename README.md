@@ -1,6 +1,7 @@
 # Amaterialize
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
+This is angular 8 with the material design
 
 ## Development server
 
@@ -25,3 +26,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+            ------ Static Query Migration ------
+            With Angular version 8, developers need to
+            explicitly specify the timing of ViewChild and
+            ContentChild queries. Read more about this here:
+            https://v8.angular.io/guide/static-query-migration
+            ------------------------------------------------
